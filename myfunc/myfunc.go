@@ -1,4 +1,4 @@
-package myfunc
+package myfunctions
 
 /* 函数返回两个数的最大值 */
 func Max(num1, num2 int) int {
